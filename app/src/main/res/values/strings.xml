@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coba</string>
+    <string name="message_success_insert_data">Data berhasil di input!</string>
+    <string name="message_fail_insert_data">Data gagal di input. Silahkan coba lagi!</string>
+    <string name="message_data_not_complete">Data belum diisi semua!</string>
+    <string name="label_button_add_data">Tambah Data</string>
+</resources>
